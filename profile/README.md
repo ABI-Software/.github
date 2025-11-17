@@ -109,4 +109,4 @@ Funded by NIH, ABI collaborates with multiple large research institutes to devel
 
 Developed with similar frameworks to those used for SPARC Portal. It aims to support biomedical research in New Zealand through an easy, user-friendly interface to access information, research data and monitor progress.
 
-**Discover more:** https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/12-labours-project.html
+**Discover more:** [12 Labours Portal](https://portal.12-labours-demo.org/)
