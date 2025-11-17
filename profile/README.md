@@ -18,6 +18,22 @@ In most cases, we also state the person most involved with the project. You can 
 
 ---
 
+### SPARC Portal
+
+Funded by NIH, ABI collaborates with multiple large research institutes to develop a web portal with the vision to accelerate autonomic neuroscience research and device development by providing access to digital resources that can be shared, cited, visualized, computed, and used for virtual experimentation.
+
+**Discover more:** [SPARC Portal](https://sparc.science), [Map Viewer](https://github.com/ABI-Software/mapintegratedvuer)
+
+---
+
+### 12-Labours Portal
+
+Developed with similar frameworks to those used for SPARC Portal. It aims to support biomedical research in New Zealand through an easy, user-friendly interface to access information, research data and monitor progress.
+
+**Discover more:** [About 12 Labours](https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/12-labours-project.html), [12 Labours Portal](https://portal.12-labours-demo.org/)
+
+---
+
 ### Physiome Model Repository
 
 Physiome Model Repository is powered by the [PMR2 software suite](https://github.com/PMR2). It contains the [CellML models](https://www.cellml.org/). These have been developed by researchers around the world over the past two decades.The PMR2 software suite is the combination of:
@@ -95,18 +111,3 @@ Scaffoldvuer is a simple web interface with 3D visualisation capability powered 
 
 **Discover more:** [ZincJS](https://github.com/abi-software/ZincJS), [Scaffoldvuer](https://github.com/ABI-Software/scaffoldvuer)
 
----
-
-### SPARC Portal
-
-Funded by NIH, ABI collaborates with multiple large research institutes to develop a web portal with the vision to accelerate autonomic neuroscience research and device development by providing access to digital resources that can be shared, cited, visualized, computed, and used for virtual experimentation.
-
-**Discover more:** [SPARC Portal](https://sparc.science), [Map Viewer](https://github.com/ABI-Software/mapintegratedvuer)
-
----
-
-### 12-Labours Portal
-
-Developed with similar frameworks to those used for SPARC Portal. It aims to support biomedical research in New Zealand through an easy, user-friendly interface to access information, research data and monitor progress.
-
-**Discover more:** [12 Labours Portal](https://portal.12-labours-demo.org/)
