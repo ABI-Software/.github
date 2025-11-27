@@ -2,7 +2,6 @@
 # Software development at the ABI
 
 Our members contribute to many software projects, from individual automation scripts to large-scale international open-source projects.
-Major projects
 
 Our developers contribute to a number of international open-source projects under the auspices of the Physiome Project.
 The projects listed below provide some examples of the software we contribute to.
