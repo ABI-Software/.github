@@ -9,9 +9,9 @@ If you have a codebase that you believe belongs under the ABI‑Software organis
 
 ## **📑 Table of Contents**
 
-1. [Major Projects](#major-projects)  
-2. [People](#people)  
-3. [Contributing New Repositories](#contributing-new-repositories)
+1. [Major Projects](#-major-projects)  
+2. [People](#-people)  
+3. [Contributing New Repositories](#-contributing-new-repositories)
 
 ---
 
