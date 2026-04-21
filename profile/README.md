@@ -7,6 +7,8 @@ Our developers contribute to a number of international open-source projects unde
 The projects listed below provide some examples of the software we contribute to.
 In most cases, we also state the person most involved with the project. You can find out more about these individuals in the People section below.
 
+If you think you have a codebase that would suit being housed under the ABI-Software organisation create an [issue](https://github.com/ABI-Software/new-repo-requests/issues/new?template=new-repo-request.yml) on the [new-repo-requests](https://github.com/ABI-Software/new-repo-requests) repository, and a member of the ABI-Software organisation will assess and process your request.
+
 ---
 
 ## Major projects
