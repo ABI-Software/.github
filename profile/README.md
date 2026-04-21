@@ -1,114 +1,151 @@
 
-# Software development at the ABI
+# **📘 ABI Software Development**
 
-Our members contribute to many software projects, from individual automation scripts to large-scale international open-source projects.
+The Auckland Bioengineering Institute (ABI) develops and maintains a wide range of software — from lightweight automation tools to major international open‑source platforms. Much of this work contributes to the global **Physiome Project**, supporting reproducible computational physiology and biomedical research.
 
-Our developers contribute to a number of international open-source projects under the auspices of the Physiome Project.
-The projects listed below provide some examples of the software we contribute to.
-In most cases, we also state the person most involved with the project. You can find out more about these individuals in the People section below.
-
-If you think you have a codebase that would suit being housed under the ABI-Software organisation create an [issue](https://github.com/ABI-Software/new-repo-requests/issues/new?template=new-repo-request.yml) on the [new-repo-requests](https://github.com/ABI-Software/new-repo-requests) repository, and a member of the ABI-Software organisation will assess and process your request.
+If you have a codebase that you believe belongs under the ABI‑Software organisation, please open an [issue](https://github.com/ABI-Software/new-repo-requests/issues/new?template=new-repo-request.yml) in the [new‑repo‑requests](https://github.com/ABI-Software/new-repo-requests) repository. A member of the ABI‑Software team will review your request.
 
 ---
 
-## Major projects
+## **📑 Table of Contents**
 
-Our developers contribute to a number of international open-source projects under the auspices of the Physiome Project.
-The projects listed below provide some examples of the software we contribute to.
-In most cases, we also state the person most involved with the project. You can find out more about these individuals in the People section below.
-
----
-
-### SPARC Portal
-
-Funded by NIH, ABI collaborates with multiple large research institutes to develop a web portal with the vision to accelerate autonomic neuroscience research and device development by providing access to digital resources that can be shared, cited, visualized, computed, and used for virtual experimentation.
-
-**Discover more:** [SPARC Portal](https://sparc.science), [Map Viewer](https://github.com/ABI-Software/mapintegratedvuer)
+1. [Major Projects](#major-projects)  
+2. [People](#people)  
+3. [Contributing New Repositories](#contributing-new-repositories)
 
 ---
 
-### 12-Labours Portal
+## **🚀 Major Projects**
 
-Developed with similar frameworks to those used for SPARC Portal. It aims to support biomedical research in New Zealand through an easy, user-friendly interface to access information, research data and monitor progress.
-
-**Discover more:** [About 12 Labours](https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/12-labours-project.html)
-
----
-
-### Physiome Model Repository
-
-Physiome Model Repository is powered by the [PMR2 software suite](https://github.com/PMR2). It contains the [CellML models](https://www.cellml.org/). These have been developed by researchers around the world over the past two decades.The PMR2 software suite is the combination of:
-
-* The [Zope/Plone content management system](https://plone.org/)
-* The [Git distributed version control system](https://git-scm.com/)
-
-**Find out more:** [Physiome Model Repository](https://models.physiomeproject.org)
+Below are examples of key open‑source projects developed or maintained by ABI researchers and developers.  
+Where possible, the primary ABI contact for each project is listed in the **People** section.
 
 ---
 
-### Calmjs
+### **SPARC Portal**
 
-A Python framework for building toolchains and utilities for working with the JavaScript/Node.js ecosystem from within a Python environment.
+Funded by the NIH, the SPARC Portal accelerates autonomic neuroscience research by providing access to digital resources that can be shared, cited, visualised, computed, and used for virtual experimentation.
 
-**Learn more:** [Calmjs](https://github.com/calmjs/calmjs)
-
----
-
-### libCellML
-
-libCellML is a library that implements the [CellML](https://www.cellml.org/) specification in software. libCellML takes an object-based approach to representing the concepts in the specification. As such, it is aimed at supporting CellML 2.0 with the ability to upgrade CellML 1.x models to CellML 2.0. libCellML is written in C++ and is packaged and made available for use in Python, JavaScript, and Julia. libCellML also supports model analysis beyond the CellML specification and code generation for simulation of CellML models with tools like CVODE and KINSOL from SUNDIALS.
-
-**Explore more:** [libCellML](https://libcellml.org)
+**Discover more:**  
+🔗 [SPARC Portal](https://sparc.science)  
+🔗 [Map Viewer](https://github.com/ABI-Software/mapintegratedvuer)
 
 ---
 
-### libOpenCOR
+### **12‑Labours Portal**
 
-libOpenCOR is a cross-platform library written in C++. It relies on [libCellML](https://libcellml.org) and comes with Python bindings. It is used as the backend to [OpenCOR](https://www.opencor.ws/) and is released under the Apache v2.0 license.
+A web platform supporting biomedical research in New Zealand, providing user‑friendly access to research data, project information, and progress monitoring.
 
-**Check it out:** [libOpenCOR](https://opencor.ws/libopencor/)
-
----
-
-### Mapping Tools
-
-Reproducible workflow environment with a growing number of plug-in tools for performing workflow steps. MAP Client provides the foundation for the [SPARC Scaffold Mapping Tools](https://sparc.science/resources/1mv8q3JckdpSYpPK9dvdKx).
-
-**Check it out:** [MAP Client](https://map-client.readthedocs.io/en/latest/manual/index.html), [Scaffold Mapping Tools](https://sparc.science/resources/1mv8q3JckdpSYpPK9dvdKx)
+**Discover more:**  
+🔗 [About 12 Labours](https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/12-labours-project.html)
 
 ---
 
-### CMLibs
+### **Physiome Model Repository**
 
-Continuum modelling software including Zinc library.
+Powered by the [PMR2 software suite](https://github.com/PMR2), the Physiome Model Repository hosts CellML models developed worldwide over the past two decades. PMR2 integrates:
 
-**Website:** [CMLibs.org](https://cmlibs.org/)
+- The [Zope/Plone CMS](https://plone.org/)  
+- The [Git](https://git-scm.com/) version control system  
 
----
-
-### CMLibs Zinc Library
-
-Modelling and visualisation library for building interactive graphical interfaces, written in C/C++ with APIs in C, C++ and Python. Business friendly open source license.
-Various tools and user interfaces built with Zinc are also actively developed or maintained by the ABI. Cmgui is the legacy visualisation application built on Zinc.
-
-**Source code:** [github.com/cmlibs/zinc](https://github.com/cmlibs/zinc)
+**Find out more:**  
+🔗 [Physiome Model Repository](https://models.physiomeproject.org)
 
 ---
 
-### OpenCOR
+### **Calmjs**
 
-OpenCOR is a cross-platform modelling environment, which is aimed at organising, editing, simulating, and analysing [CellML](https://www.cellml.org/) files. It is released under the GPL v3.0 license and can be downloaded for Windows, Linux, and macOS from the [OpenCOR](https://opencor.ws/downloads/index.html) website.
-Please have a look at our [published article](https://dx.doi.org/10.3389/fphys.2015.00026). There, you can learn more about our modular and interoperable approach to computational biology in [OpenCOR](https://www.opencor.ws/).
+A Python framework for building toolchains and utilities for working with the JavaScript/Node.js ecosystem from Python.
 
-**Check it out:** [OpenCOR](https://www.opencor.ws/)
+**Learn more:**  
+🔗 [Calmjs](https://github.com/calmjs/calmjs)
 
 ---
 
-### ZincJS and Scaffoldvuer
+### **libCellML**
 
-ZincJS is a Web-based 3D interface library based on the popular [three.js library](https://threejs.org/). It provides a number of classes /methods for easy access to powerful 3D models visualisations for desktop/mobile platforms on [WebGL compatible browsers](https://en.wikipedia.org/wiki/WebGL). You can find documentation and web apps built on ZincJS on their website.
+A C++ library implementing the [CellML](https://www.cellml.org/) specification, with bindings for Python, JavaScript, and Julia. Supports CellML 2.0, upgrades from CellML 1.x, model analysis, and code generation for simulation tools such as CVODE and KINSOL.
 
-Scaffoldvuer is a simple web interface with 3D visualisation capability powered by ZincJS. It is currently capable of displaying 3D models format such as GLTF, STL and OBJ, and models from Zinc.
+**Explore more:**  
+🔗 [libCellML](https://libcellml.org)
 
-**Discover more:** [ZincJS](https://github.com/abi-software/ZincJS), [Scaffoldvuer](https://github.com/ABI-Software/scaffoldvuer)
+---
 
+### **libOpenCOR**
+
+A cross‑platform C++ library (with Python bindings) used as the backend for [OpenCOR](https://www.opencor.ws/). Released under Apache 2.0.
+
+**Check it out:**  
+🔗 [libOpenCOR](https://opencor.ws/libopencor/)
+
+---
+
+### **Mapping Tools**
+
+A reproducible workflow environment with plug‑in tools for mapping and modelling workflows. Forms the basis of the SPARC Scaffold Mapping Tools.
+
+**Check it out:**  
+🔗 [MAP Client](https://map-client.readthedocs.io/en/latest/manual/index.html)  
+🔗 [Scaffold Mapping Tools](https://sparc.science/resources/1mv8q3JckdpSYpPK9dvdKx)
+
+---
+
+### **CMLibs**
+
+Continuum modelling software including the Zinc library.
+
+**Website:**  
+🔗 [CMLibs.org](https://cmlibs.org/)
+
+---
+
+### **CMLibs Zinc Library**
+
+A modelling and visualisation library written in C/C++ with APIs for C, C++, and Python. Used to build interactive graphical interfaces. Cmgui is the legacy visualisation tool built on Zinc.
+
+**Source code:**  
+🔗 [github.com/cmlibs/zinc](https://github.com/cmlibs/zinc)
+
+---
+
+### **OpenCOR**
+
+A cross‑platform environment for organising, editing, simulating, and analysing CellML files. Released under GPL v3.0.
+
+**Check it out:**  
+🔗 [OpenCOR](https://www.opencor.ws/)
+
+---
+
+### **ZincJS and Scaffoldvuer**
+
+**ZincJS** is a WebGL‑based 3D interface library built on [three.js](https://threejs.org/).  
+**Scaffoldvuer** is a simple web interface for 3D model visualisation using ZincJS.
+
+**Discover more:**  
+🔗 [ZincJS](https://github.com/abi-software/ZincJS)  
+🔗 [Scaffoldvuer](https://github.com/ABI-Software/scaffoldvuer)
+
+---
+
+## **👥 People**
+
+ABI developers and maintainers and their associated key projects.
+
+| **Name** | **Username** | **Key Projects** |
+|----------|--------------|------------------|
+| *Alan Garny* | [agarny](https://github.com/agarny) | *OpenCOR*, *libOpenCOR*, *libCellML* |
+| *Alan Wu* | [alan-wu](https://github.com/alan-wu) | *ZincJS*, *Scaffoldvuer*, *SPARC Portal*, *12‑Labours Portal* |
+| *Hugh Sorby* | [hsorby](https://github.com/hsorby) | *libCellML*, *Mapping Tools*, *CMLibs* |
+| *Richard Christie* | [rchristie](https://github.com/rchristie) | *CMLibs Zinc Library* |
+| *Tommy Yu* | [metatoaster](https://github.com/metatoaster) | *CalmJS*, *Physiome Model Repository* |
+
+---
+
+## **📬 Contributing New Repositories**
+
+To request a new repository under the ABI‑Software organisation, please open an issue here:
+
+🔗 [https://github.com/ABI-Software/new-repo-requests/issues/new?template=new-repo-request.yml](https://github.com/ABI-Software/new-repo-requests/issues/new?template=new-repo-request.yml)
+
+A member of the ABI‑Software team will review and process your request.
